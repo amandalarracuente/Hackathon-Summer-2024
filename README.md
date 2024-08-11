@@ -21,7 +21,7 @@ division, else they will be in the open division.
     than this.
 2.  General questions/problems can be directed to [issues](https://github.com/Rochester-Biomedical-DS/Hackathon-Summer-2024/issues) page.  We encourage other hackathon participants to respond to issues.
 3.  The scoreboard will be located
-    [here](Leaderboard.Hackathon.2024.md).
+    [here](Leaderboard.Hackathon.2024.testing.take2.wHB.md).
    
     We  cannot provide support
     beyond the diagnostic output included on the scoreboard if an error is
