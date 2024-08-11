@@ -3,12 +3,6 @@
 -   **time stamp:** “11 August, 2024 09:32:29”
 
 
-
-| pseudonym | TP  | TN  | FP  | FN  |     MCC |
-|:----------|:----|:----|:----|:----|--------:|
-| YEAST     | 36  | 111 | 39  | 114 | -0.0231 |
-| FLY       | 72  | 72  | 78  | 78  | -0.0400 |
-
 \****Confusion matrix categories:***
 
 -   **TP**: True positives
