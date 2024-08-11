@@ -3,6 +3,7 @@
 -   **time stamp:** “11 August, 2024 09:32:29”
 
 
+
 \****Confusion matrix categories:***
 
 -   **TP**: True positives
@@ -28,55 +29,3 @@ incorrect)
 
 *The following teams have bad urls at:
 <https://raw.githubusercontent.com/_CAPTAIN.HANDLE_/Hackathon-Summer-2024/main/prediction/prediction.csv>*
-
-| x                             |
-|:------------------------------|
-| ?                             |
-| BASE                          |
-| DMMH                          |
-| Haven’t decided yet           |
-| Lucy                          |
-| KPTH                          |
-| data science girlies          |
-| Works on my machine           |
-| DS_2024                       |
-| Elden Lord                    |
-| Typhoon                       |
-| AttnIsAllYouNeed              |
-| CookieMonster                 |
-| HT                            |
-| HumanGPT                      |
-| KD                            |
-| Medhini                       |
-| Shak                          |
-| The game                      |
-| PY                            |
-| 60hahsm                       |
-| MJCG Lab                      |
-| Tiramisu                      |
-| Capybara                      |
-| Gathucy                       |
-| iKun                          |
-| Lambsord                      |
-| Pickleballers                 |
-| The Browns                    |
-| Velo                          |
-| Data Pundits                  |
-| Saint Levant                  |
-| Youngdoo                      |
-| Dom                           |
-| emole                         |
-| FreshTeam                     |
-| NullName                      |
-| Rookie Data Scientist         |
-| Zong Time                     |
-| YA                            |
-| WordGirl                      |
-| error420                      |
-| Phoenix                       |
-| LNVHAVCNH                     |
-| Biomedical Datascience Team 2 |
-| Data Infinity                 |
-| FunctionLab                   |
-| Gubergoff                     |
-| why-axis                      |
